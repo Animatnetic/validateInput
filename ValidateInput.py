@@ -42,3 +42,4 @@ def validate_str(prompt_text = "Please enter a string: ", err_text = "Please mak
         else:
             print("f{err_text}")
 
+print("Hi yes, testing this just for now")
