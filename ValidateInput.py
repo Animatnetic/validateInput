@@ -41,3 +41,4 @@ def validate_str(prompt_text = "Please enter a string: ", err_text = "Please mak
             return user_input
         else:
             print("f{err_text}")
+
